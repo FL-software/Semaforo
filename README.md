@@ -1,2 +1,2 @@
-# lampada
-Projeto Lâmpada botões como interruptores para ligar e desligar
+# Semaforo
+Semáforo com botões para mudar os sinais e um botão para mudar automaticamente
